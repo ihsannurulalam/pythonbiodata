@@ -26,9 +26,9 @@ Perintah memasukan kalimat penutup
 Perintah memasukan salam penutup
 - print ("Wassalamualaikum")
 jika perintah sudah dimasukan,klik F5 (run module) untuk menjalankan program
-![img]screenshot/1.jpg
+![Gambar 1](screenshot/1.jpg)
 maka hasil alhirnya akan seperti pada gambar di bawah
-![img]screenshot/2.jpg
+![Gambar 2](screenshot/2.jpg)
 
 
 
